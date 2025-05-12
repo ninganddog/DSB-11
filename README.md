@@ -1,4 +1,4 @@
-# DATA SCIENCE DSB 11 ✍️
+# DATA SCIENCE #
 DSB-Project-11
 
 - Goolge sheets
